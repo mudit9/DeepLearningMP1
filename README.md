@@ -1,4 +1,4 @@
-#CIFAR 10 Benchmark
+## CIFAR 10 Benchmark
 
 Team members:
 Rakshit Lodha : rl4563
